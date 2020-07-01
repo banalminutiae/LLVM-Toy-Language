@@ -8,6 +8,8 @@ OBJECTIVES:
         Additionally, established and modern C++ features and practises.
 
 TODO:
+        Project on hold until I understand modern C++ conventions to a satisfactory degree.
+
         Add conditional operations, this isn't turing complete
         Refactor for more sensible programming practises i.e. remove global variables and
         organise more appropriate files. Extend language. Refactor to not use yucky virtual methods
